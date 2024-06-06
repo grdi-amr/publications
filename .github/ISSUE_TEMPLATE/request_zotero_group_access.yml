@@ -1,0 +1,14 @@
+name: Request access to the GRDI-AMR Zotero Group
+description: Join the GRDI-AMR Zotero Group to use the publication library within Zotero and/or access full-text objects.
+title: "Request access to the GRDI-AMR Zotero Group"
+assignees:
+  - chapb
+body:
+  - type: input
+    id: zotero_username
+    attributes:
+      label: Zotero Username
+      description: Sign up for a free Zotero account and enter your username here.
+      placeholder: ex. chapb
+    validations:
+      required: false
