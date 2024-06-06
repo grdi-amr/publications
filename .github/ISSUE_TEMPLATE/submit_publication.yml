@@ -8,7 +8,7 @@ body:
     id: doi
     attributes:
       label: DOI
-      description: Enter the publication DOI here
+      description: If your publication has been assigned a DOI, enter it here.
       placeholder: ex. 10.1111/epi.12487
     validations:
       required: false
@@ -30,5 +30,13 @@ body:
         - GRDI-AMR1
     validations:
         required: true
+  - type: input
+    id: work_package
+    attributes:
+      label: Work Package
+      description: Which work package(s) generated this publication?
+      placeholder: ex. WP1
+    validations:
+      required: true
     
       
