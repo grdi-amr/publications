@@ -4,28 +4,31 @@ title: "New publication"
 assignees:
   - chapb
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Submit your publication here.
   - type: input
     id: doi
     attributes:
       label: DOI
-      description: Enter the publication's DOI.
+      description: Enter the publication DOI here
       placeholder: ex. 10.1111/epi.12487
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
-        If your publication has not been assigned a DOI, enter a link here.
   - type: input
     id: url
     attributes:
       label: URL
-      description: Enter a link to the publication
-      placeholder: ex. 10.1111/epi.12487
+      description: If your publication has not been assigned a DOI, enter a link here.
+      placeholder: ex. https://www.sciencedirect.com/science/article/abs/pii/S2352352216300147
     validations:
       required: false
+  - type: dropdown
+    id: project_version
+    attributes:
+      label: GRDI Project #
+      description: Does this publication belong to GRDI-AMR1 or GRDI-AMR2?
+      options:
+        - GRDI-AMR2
+        - GRDI-AMR1
+      validations:
+        required: true
+    
       
