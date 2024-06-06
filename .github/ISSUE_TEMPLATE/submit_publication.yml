@@ -28,7 +28,7 @@ body:
       options:
         - GRDI-AMR2
         - GRDI-AMR1
-      validations:
+    validations:
         required: true
     
       
