@@ -1,0 +1,31 @@
+name: Submit a Publication
+description: Submit a publication to the GRDI-AMR publications library.
+title: "New publication"
+assignees:
+  - chapb
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit your publication here.
+  - type: input
+    id: doi
+    attributes:
+      label: DOI
+      description: Enter the publication's DOI.
+      placeholder: ex. 10.1111/epi.12487
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        If your publication has not been assigned a DOI, enter a link here.
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Enter a link to the publication
+      placeholder: ex. 10.1111/epi.12487
+    validations:
+      required: false
+      
