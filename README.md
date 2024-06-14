@@ -32,3 +32,14 @@ There are a multiple ways to use the GRDI-AMR library.
 ## Submit a publication to the library
 
 ## Update metadata in the publications library
+
+
+## SOPs
+
+### Add a new publication to the library
+
+1. Acquire the publication in PDF format.
+2. Add the publication to the appropriate collection (GRDI-AMR1 or GRDI-AMR2), and tag it.
+3. Tag with 'official index' if it is reported on the official website.
+4. Tag with 'open access' or 'paywall' as appropriate.
+5. Regenerate bibliography in APA7 as HTML and update GRDI-AMR.com.  
