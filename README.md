@@ -1,18 +1,23 @@
 ![TLP Level Badge](https://img.shields.io/badge/TLP-CLEAR-lightgrey)
 
+
+### The GRDI-AMR Publication Library
+
 The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects. 
 
 - [**Access the Library**](https://grapl.grdi-amr.com/)
   - You must be a member of the Zotero group to access full-text .PDFs and work in Zotero desktop. 
     - [Learn More](#more-details)
 
+- **Import the Library**
+  - Get the latest [.bib](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.bib), [.csv](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.csv), and [.ris](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.ris) exports or see the [latest release](https://github.com/grdi-amr/publications/releases).
+  - Create your own exports on the [group page](https://grapl.grdi-amr.com/).
+  
 - **Submit a Publication**
-  - You will need a DOI or URL, and the associated GRDI project and work package number(s).
+  - You will need a DOI or URL, and the associated GRDI-AMR project and work package number(s).
     - e.g., GRDI-AMR1, WP4 & WP5
-  - Submit a publication using [this form](https://goto.grdi-amr.com/librarysubmit), or by [creating a GitHub issue](https://github.com/grdi-amr/publications/issues/new/choose).
+  - Submit a publication using [this form](https://goto.grdi-amr.com/librarysubmit) or by [creating a GitHub issue](https://github.com/grdi-amr/publications/issues/new/choose).
 
-- **Import the References**
-  - Download .bib, .csv, and .ris files above, or see the [latest release](https://github.com/grdi-amr/publications/releases).
 
 ### More details
 
