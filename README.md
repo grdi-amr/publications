@@ -3,7 +3,9 @@
 
 ### GRDI-AMR Publication Library
 
-The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects. 
+[grapl.grdi-amr.com](https://grapl.grdi-amr.com/)  
+
+The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.
 
 - [**Access the Library**](https://grapl.grdi-amr.com/)
   - You must be a member of the Zotero group to access full-text .PDFs and work in Zotero desktop. 
@@ -21,7 +23,7 @@ The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or [*GRAPL*]
 
 ### More details
 
-[Zotero](https://www.zotero.org/) (an open-source reference management software) uses ['groups'](https://www.zotero.org/support/groups) to enabled shared bibliographic libraries. 
+[Zotero](https://www.zotero.org/) (an open-source reference management software) uses '[groups](https://www.zotero.org/support/groups)' to enable shared bibliographic libraries. 
 
 GRAPL is a *public, closed membership group*, which means:
 
@@ -33,6 +35,6 @@ Request to join the group by [creating a GitHub issue](https://github.com/grdi-a
 
 ### See also
 
-- config.md for configuration details and SOPs.
+- [config.md](config.md) for configuration details and SOPs.
 
 
