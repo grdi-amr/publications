@@ -1,45 +1,31 @@
+![TLP Level Badge](https://img.shields.io/badge/TLP-CLEAR-lightgrey)
+
+# GRAPL support
+
+The [*GRDI-AMR Publication Library*](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects. 
+
+- [**Access the Library**](https://grapl.grdi-amr.com/) (https://grapl.grdi-amr.com/)
+  - You must be a member of the Zotero group to access full-text .PDFs and work in Zotero desktop. [Learn More](#more-details).
+
+- **Submit a Publication**
+  - You will need a DOI or URL, and the associated GRDI project and work package number(s) (e.g., GRDI-AMR1, WP5).
+  - Submit a publication using [this form](https://goto.grdi-amr.com/librarysubmit), or by [creating a GitHub issue](https://github.com/grdi-amr/publications/issues/new/choose).
 
 
-# GRDI-AMR Publications Library
+### More details
 
-This repository supports the [GRDI-AMR Publications Library](https://www.zotero.org/groups/4425256/grdi-amr/library).
+[Zotero](https://www.zotero.org/) (an open-source reference management software) uses ['groups'](https://www.zotero.org/support/groups) to enabled shared bibliographic libraries. 
 
+GRAPL is a *public, closed membership group*, which means:
 
-## FAQs
+- Anyone can view the [group page](https://grapl.grdi-amr.com/) and the metadata (e.g., title, authors, abstracts) associated with the library.
+- Group members can access full-text .PDFs and work with the library directly in the Zotero desktop app.
 
-### What is the GRDI-AMR Publications Library?
-
-The GRDI-AMR Publications Library is a collection of publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.
-
-### What is Zotero? And what is a Zotero Group?
-
-[Zotero](https://www.zotero.org/) is a open-source reference management software. [Zotero Groups](https://www.zotero.org/groups/) are shared collections of references.
-
-### How do I use the Publications Library?
-
-There are a multiple ways to use the GRDI-AMR library.
-
-- Anyone can access reference metadata.
-- Team members can access full-text.
-- Anyone can cite these references by importing them into their reference manager.
+Request to join the group by [creating a GitHub issue](https://github.com/grdi-amr/publications/issues/new/choose).
 
 
-## Access the publications library
+### See also
 
-[Link](https://www.zotero.org/groups/4425256/grdi-amr/library)
-
-
-## Submit a publication to the library
-
-## Update metadata in the publications library
+- config.md for configuration details and SOPs.
 
 
-## SOPs
-
-### Add a new publication to the library
-
-1. Acquire the publication in PDF format.
-2. Add the publication to the appropriate collection (GRDI-AMR1 or GRDI-AMR2), and tag it.
-3. Tag with 'official index' if it is reported on the official website.
-4. Tag with 'open access' or 'paywall' as appropriate.
-5. Regenerate bibliography in APA7 as HTML and update GRDI-AMR.com.  
