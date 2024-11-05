@@ -1,14 +1,14 @@
 ![TLP Level Badge](https://img.shields.io/badge/TLP-CLEAR-lightgrey)
 
-# GRAPL support
-
 The [*GRDI-AMR Publication Library*](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects. 
 
 - [**Access the Library**](https://grapl.grdi-amr.com/) (https://grapl.grdi-amr.com/)
-  - You must be a member of the Zotero group to access full-text .PDFs and work in Zotero desktop. [Learn More](#more-details).
+  - You must be a member of the Zotero group to access full-text .PDFs and work in Zotero desktop. 
+    - [Learn More](#more-details)
 
 - **Submit a Publication**
-  - You will need a DOI or URL, and the associated GRDI project and work package number(s) (e.g., GRDI-AMR1, WP5).
+  - You will need a DOI or URL, and the associated GRDI project and work package number(s).
+    - e.g., GRDI-AMR1, WP4 & WP5
   - Submit a publication using [this form](https://goto.grdi-amr.com/librarysubmit), or by [creating a GitHub issue](https://github.com/grdi-amr/publications/issues/new/choose).
 
 
