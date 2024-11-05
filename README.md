@@ -1,9 +1,7 @@
 [![TLP Level Badge](https://img.shields.io/badge/TLP-CLEAR-lightgrey)](https://www.first.org/tlp/)
 
 
-### GRDI-AMR Publication Library
-
-[grapl.grdi-amr.com](https://grapl.grdi-amr.com/)  
+### GRDI-AMR Publication Library ([grapl.grdi-amr.com](https://grapl.grdi-amr.com/))
 
 The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or [*GRAPL*](https://grapl.grdi-amr.com/) (pronounced "grapple") is a [Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.
 
